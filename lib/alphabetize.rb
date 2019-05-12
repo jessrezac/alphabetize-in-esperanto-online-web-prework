@@ -6,4 +6,3 @@ def alphabetize(arr)
     esperanto_alphabet.split.index word.id
   end
 end
-terf
