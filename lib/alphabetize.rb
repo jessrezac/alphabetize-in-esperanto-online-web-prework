@@ -1,6 +1,6 @@
 def alphabetize(arr)
   # code here
-  ESPERANTO_ALPHABET = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
+  esperanto_alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 
   arr.sort_by do |phrase|
     phrase.split.map do |letter|
