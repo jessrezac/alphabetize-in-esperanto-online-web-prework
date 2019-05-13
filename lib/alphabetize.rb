@@ -8,3 +8,5 @@ def alphabetize(arr)
     end
   end
 end
+
+# http://tylermachen.github.io/2015/08/10/ruby-tips-sort-methods.html was really helpful here
